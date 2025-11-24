@@ -34,11 +34,11 @@ O sistema oferece um menu interativo com as seguintes opções:
 
 1. Certifique-se de ter o **Python 3** instalado em seu computador.  
 2. Faça o download ou clone o repositório do projeto:  
-   - `git clone https://github.com/anavirezende/projeto-clinica-vida-mais.git`  
+   ```git clone https://github.com/anavirezende/projeto-clinica-vida-mais.git```  
 3. Instale a biblioteca necessária:  
-   - `pip install colorama`  
+   ```pip install colorama``` 
 4. Execute o arquivo principal:  
-   - `python main.py`
+   ```python main.py```
 
 ---
 
